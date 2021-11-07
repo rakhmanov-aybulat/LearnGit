@@ -23,3 +23,6 @@ class Controller {
         }, this.speed);
     }
 }
+//slkfjs
+//Еще одна строчка без смысла
+
