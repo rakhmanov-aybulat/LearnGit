@@ -13,7 +13,7 @@ class Controller {
     constructor(game) {
         this.game = game;
         this.speed = 800;
-        this.timerId = null;
+        this.timerId = this.startTimer();
     }
     startTimer() {
         let tick;
